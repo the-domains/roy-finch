@@ -1,0 +1,28 @@
+name: roy finch
+favicon: null
+layout_spectrum: 0.8764073336496949
+typography_spectrum: 0.718148413579911
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8101550401188433
+  lightness: 0.07386205298826098
+  saturation: 0.7333453963510692
+  rhythmicContrast: 0.29494073055684566
+purpose: []
