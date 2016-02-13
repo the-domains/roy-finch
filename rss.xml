@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[roy finch]]></title>
         <description><![CDATA[roy finch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/roy-finch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 23:54:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 01:01:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/roy-finch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/863b661e-419c-426e-a185-edb9d70827c8.JPG">]]></description>
+            <link>https://thegrid.ai/roy-finch/f98a303d-33a6-457f-a6bc-9591d6339233/index.html</link>
+            <guid isPermaLink="false">f98a303d-33a6-457f-a6bc-9591d6339233</guid>
+            <pubDate>Sat, 13 Feb 2016 01:01:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b78ce825-d641-4fca-81c4-c84dc3668446.JPG">]]></description>
-            <link>undefined48da0630-c99c-406a-9e37-2e33152067e0/index.html</link>
+            <link>https://thegrid.ai/roy-finch/48da0630-c99c-406a-9e37-2e33152067e0/index.html</link>
             <guid isPermaLink="false">48da0630-c99c-406a-9e37-2e33152067e0</guid>
             <pubDate>Fri, 12 Feb 2016 23:53:40 GMT</pubDate>
         </item>
